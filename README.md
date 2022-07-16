@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AthiraNirmal
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested Learning anything New!!
 - 🌱 I’m currently learning live migration of Virtual Machines
-- 💞️ I’m looking to collaborate on 
+- 💞️ Recently  
 - 📫 How to reach me : athiranirmalk.an@gmail.com
 
 <!---
