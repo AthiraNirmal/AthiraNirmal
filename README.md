@@ -2,6 +2,7 @@
 - 👀 I’m interested in Learning anything New!!
 - 🌱 I’m currently learning live migration of Virtual Machines
 - 💞️ Recent updates: In Love with "asciidots"
+- ⭐️ Anything is achievable through strong Logical Thinking!
 - 📫 How to reach me : athiranirmalk.an@gmail.com
 
 <!---
