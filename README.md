@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Athira Nirmal
-- 👀 I’m interested in Learning anything New!!
-- 🌱 I’m currently learning live migration of Virtual Machines
-- 💞️ Recent updates: In Love with "asciidots"
+- 👀 I’m interested in using Data for real-world problems!
+- 🌱 I’m currently learning to becoame a Front End Developer
+- 💞️ Recent updates: Graduated from SUNY Binghamton | Ex-IBMer
 - ⭐️ Anything is achievable through strong Logical Thinking!
 - 📫 How to reach me : athiranirmalk.an@gmail.com
 
